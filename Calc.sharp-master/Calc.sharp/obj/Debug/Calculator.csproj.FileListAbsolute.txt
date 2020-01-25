@@ -1,0 +1,9 @@
+C:\Users\Programming13\Desktop\Calc.sharp-master\Calc.sharp\bin\Debug\Calc.sharp.exe.config
+C:\Users\Programming13\Desktop\Calc.sharp-master\Calc.sharp\bin\Debug\Calc.sharp.exe
+C:\Users\Programming13\Desktop\Calc.sharp-master\Calc.sharp\bin\Debug\Calc.sharp.pdb
+C:\Users\Programming13\Desktop\Calc.sharp-master\Calc.sharp\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Programming13\Desktop\Calc.sharp-master\Calc.sharp\obj\Debug\Calc.sharp.MainForm.resources
+C:\Users\Programming13\Desktop\Calc.sharp-master\Calc.sharp\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Programming13\Desktop\Calc.sharp-master\Calc.sharp\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Programming13\Desktop\Calc.sharp-master\Calc.sharp\obj\Debug\Calc.sharp.exe
+C:\Users\Programming13\Desktop\Calc.sharp-master\Calc.sharp\obj\Debug\Calc.sharp.pdb
